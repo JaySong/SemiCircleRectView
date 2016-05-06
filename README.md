@@ -13,7 +13,7 @@ CSDN Blog:http://blog.csdn.net/qJay_Dev/article/details/51335890<br/>
 简书：http://www.jianshu.com/p/c2546c277838
  
 # 效果图
-![][1]
+![png][1]
 
 
   [1]: https://github.com/JaySong/SemiCircleRectView/blob/master/layout-2016-05-07-001523.png
