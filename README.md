@@ -9,7 +9,7 @@
  4. 不需要重复的为不同大小尺寸的背景创建shape.xml
 
 # 实现原理
-CSDN Blog:http://blog.csdn.net/qJay_Dev/article/details/51335890
+CSDN Blog:http://blog.csdn.net/qJay_Dev/article/details/51335890<br/>
 简书：http://www.jianshu.com/p/c2546c277838
  
 # 效果图
